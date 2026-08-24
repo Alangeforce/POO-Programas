@@ -24,5 +24,6 @@ public class p026_TipoAngulo {
             System.out.println("\nERROR: No existe clasificacion para un angulo con esta medida");
 
 
+
     }
 }
