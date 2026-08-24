@@ -5,7 +5,9 @@ public class p026_TipoAngulo {
         System.out.print("\033[H\033[2J"); System.out.flush();
 
         //Entrada
-        System.out.println("Dame un angulo entre 0 y 360 grados :");
+        System.out.println("Dame un angulo entre 0 y 360 grados y te dire que tipo es :");
+
+        
 
 
 
