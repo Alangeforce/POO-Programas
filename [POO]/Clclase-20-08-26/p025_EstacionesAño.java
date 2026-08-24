@@ -11,7 +11,7 @@ public class p025_EstacionesAño{
        if( num == 1 )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
        if( num == 2 )System.out.println("\nEs VERANO : JUNIO - JULIO -AGOSTO");
        if( num == 3 )System.out.println("\nEs OTONO : SEPTIEMBRE - OCTUBRE -NOVIEMVRE");
-       if( num == 4 )System.out.println("\nEs INVIERNO : MARZO - ABRIL -MAYO");
+       if( num == 4 )System.out.println("\nEs INVIERNO : DICIEMBRE - ENERO -FEBRERO");
 
        
 
