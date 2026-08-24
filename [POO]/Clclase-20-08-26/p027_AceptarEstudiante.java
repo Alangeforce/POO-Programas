@@ -11,7 +11,7 @@ public class p027_AceptarEstudiante {
         System.out.println("Control de Acceso son mayores de 18 y califiaciones mayores a 8\n");
 
 
-        sout
+        System.out.println();
 
 
     }
