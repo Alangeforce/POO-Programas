@@ -5,7 +5,7 @@ public class p025_EstacionesAño{
        System.out.println(:"Dame un numero entero entre 1 y 4 y te dire que estacion del year es :");
 
 
-       if num 
+       if( num --)
     }
 
 }
