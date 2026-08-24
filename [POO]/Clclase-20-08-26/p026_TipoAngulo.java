@@ -12,7 +12,7 @@ public class p026_TipoAngulo {
 
         if(ang >=0 && ang <=360){
             // Si el angulo es correcto se procesa
-            System.out.print("\n ");
+            System.out.print("\nEl angulo que me di");
         }
 
 
