@@ -8,7 +8,8 @@ public class p026_TipoAngulo {
 
         //Entrada
         System.out.println("Dame un angulo entre 0 y 360 grados y te dire que tipo es :");
-        int ang = new Scanner(System.in).next
+        int ang = new Scanner(System.in).nextInt();
+        
 
 
 
