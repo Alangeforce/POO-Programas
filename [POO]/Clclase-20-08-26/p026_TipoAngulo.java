@@ -13,7 +13,7 @@ public class p026_TipoAngulo {
         if(ang >=0 && ang <=360){
             // Si el angulo es correcto se procesa
             System.out.print("\nEl angulo que me diste no es valido");
-            if( ang < 90 ) Sout
+            if( ang < 90 ) System.out.println("");
         }
 
 
