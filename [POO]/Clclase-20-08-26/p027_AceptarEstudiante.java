@@ -6,7 +6,8 @@ public class p027_AceptarEstudiante {
         Scanner obj = new Scanner(System.in);
 
         System.out.print("\033[H\033[2J"); System.out.flush();
-        
+
+        System.out.println();
 
 
     }
