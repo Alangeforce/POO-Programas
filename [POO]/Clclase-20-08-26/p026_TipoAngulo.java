@@ -18,7 +18,9 @@ public class p026_TipoAngulo {
             if( ang > 90 && ang < 180 ) System.out.println("OBTUSO");
             if( ang == 180 ) System.out.println("LLANO");
             if( ang > 180 ) System.out.println("CONCAVO");
+
         }
+        else //
 
 
 
