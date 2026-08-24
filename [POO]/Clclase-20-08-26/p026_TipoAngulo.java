@@ -20,7 +20,8 @@ public class p026_TipoAngulo {
             if( ang > 180 ) System.out.println("CONCAVO");
 
         }
-        else //
+        else //Si el angulo no es correcto manda este mensaje de error s
+        
 
 
 
