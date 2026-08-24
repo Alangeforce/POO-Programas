@@ -1,0 +1,28 @@
+// Calcula la suma y promedio de 3 calificaciones, asi como la mayor y mnenor
+
+
+
+public class p006_PromedioCalificaciones {
+
+    public static void main(String[]args){
+        float c1,c2,c3;
+        Scanner obj = new Scanner(System.in);
+        
+        System.out.printf("Calculando el promedio de 3 calificaciones\n")
+        System.out.printf("Dame calificacion 1 : "); c1 = obj.nextFloat();
+        System.out.printf("Dame calificacion 1 : "); c2 = obj.nextFloat();
+        System.out.printf("Dame calificacion 1 : "); c3 = obj.nextFloat();
+        
+        float suma = c1=0 + c2=0 + c3=0;
+        float promedio = suma / 3;
+        float mayor = Math.max(Math.max(c1,c2), c3);
+
+        
+        System.out.printf("Las calificiaciones son: %.2f, %.2f, &.2f\n",c1,c2,c3);
+        System.oout.printf("La suma es = %.f \n", suma);
+        System.out.printf("El promedio es = %.f \n", promedio);
+
+        
+
+    }
+}

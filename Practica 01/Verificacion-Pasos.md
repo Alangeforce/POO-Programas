@@ -77,3 +77,18 @@ Evidencia de la extensión de Java instalada en Visual Studio Code (Extension Pa
 Todos los pasos fueron verificados correctamente.
 
 ![Resumen](capturas/resumen.png)
+
+---
+
+## Datos para la entrega
+
+**Anexar el nombre y el URL del repositorio a la hoja de cálculo anexa:**
+
+| Campo | Valor |
+|-------|-------|
+| **Nombre del repositorio** | POO-Programas |
+| **URL del repositorio** | https://github.com/Alangeforce/POO-Programas |
+
+**Anexar el URL del repositorio, como enlace, a la entrega de esta práctica:**
+
+Entregable: https://github.com/Alangeforce/POO-Programas

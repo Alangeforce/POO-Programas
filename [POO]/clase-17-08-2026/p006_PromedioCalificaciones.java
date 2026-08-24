@@ -8,9 +8,9 @@ public class p006_PromedioCalificaciones {
         float c1, c2, c3;
         Scanner obj = new Scanner(System.in);
 
-        System.out.printf("Calculando el promedio de 3 calificaciones\n");
+        System.out.printf("Calculando el promedio de 3 calificaciones");
         System.out.printf("Dame calificacion 1 : "); c1 = obj.nextFloat();
-        System.out.printf("Dame calificacion 2 : "); c2 = obj.nextFloat();
+        System.out.printf("Dame calificacion 2 :"); c2 = obj.nextFloat();
         System.out.printf("Dame calificacion 3 : "); c3 = obj.nextFloat();
 
         float suma = c1 + c2 + c3;
