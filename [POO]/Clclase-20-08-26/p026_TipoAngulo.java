@@ -15,7 +15,7 @@ public class p026_TipoAngulo {
             System.out.print("\nEl angulo que me diste no es valido");
             if( ang < 90 ) System.out.println("Agudo");
             if( ang == 90  ) System.out.println("Recto");
-            if( ang >90 ) System.out.println("OBTUSO");
+            if( ang > 90 && ang  ) System.out.println("OBTUSO");
             if( ang < 90 ) System.out.println("LLANO");
             if( ang < 90 ) System.out.println("CONCAVO");
         }
