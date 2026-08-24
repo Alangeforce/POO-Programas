@@ -2,8 +2,10 @@ import java.util.Scanner;
 
 public class p027_AceptarEstudiante {
     public static void main(String[] args) {
-        
+
         Scanner obj = new Scanner(System.in);
+
+        System.out.print("\033[H\033[2J");
 
     }
 }
