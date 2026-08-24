@@ -21,7 +21,7 @@ public class p026_TipoAngulo {
 
         }
         else //Si el angulo no es correcto manda este mensaje de error s
-            System.out.println();
+            System.out.println("\n");
 
 
 
