@@ -8,5 +8,6 @@ public class p027_AceptarEstudiante {
         System.out.print("\033[H\033[2J"); System.out.flush();
         
 
+
     }
 }
