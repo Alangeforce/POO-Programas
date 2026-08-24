@@ -13,7 +13,7 @@ public class p027_AceptarEstudiante {
 
         System.out.println("Dame tu edad : "); int edad = obj.nextInt();
         if( edad == 18 ){
-            System.out.println("\nContinuamos con el proceso ");
+            System.out.println("\nContinuamos con el proceso ya que eres MAYOR de EDAD");
         }
 
 
