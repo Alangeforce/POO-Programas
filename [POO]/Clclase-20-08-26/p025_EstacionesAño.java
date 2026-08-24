@@ -7,7 +7,7 @@ public class p025_EstacionesAño{
        System.out.println(:"Dame un numero entero entre 1 y 4 y te dire que estacion del year es :");
        int num = new Scanner(System.in).nextInt();
 
-       IF( num >= 1 && num <=4)
+       if( num >= 1 && num <=4)
        if( num == 1 )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
        if( num == 2 )System.out.println("\nEs VERANO : JUNIO - JULIO -AGOSTO");
        if( num == 3 )System.out.println("\nEs OTONO : SEPTIEMBRE - OCTUBRE -NOVIEMVRE");
