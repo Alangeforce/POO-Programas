@@ -9,6 +9,10 @@ public class p025_EstacionesAño{
 
 
        if( num == 1 )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
+       if( num ==  )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
+       if( num == 1 )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
+       if( num == 1 )System.out.println("\nEs PRIMAVERA : MARZO - ABRIL -MAYO");
+
        
 
     }
