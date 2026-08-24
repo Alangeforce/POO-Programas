@@ -12,7 +12,9 @@ public class p027_AceptarEstudiante {
 
 
         System.out.println("Dame tu edad : "); int edad = obj.nextInt();
-        if( edad == 18 )
+        if( edad == 18 ){
+            System.out.println();
+        }
 
 
     }
