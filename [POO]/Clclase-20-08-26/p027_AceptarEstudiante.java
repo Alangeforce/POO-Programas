@@ -11,7 +11,8 @@ public class p027_AceptarEstudiante {
         System.out.println("Control de Acceso son mayores de 18 y califiaciones mayores a 8\n");
 
 
-        System.out.println("Dame tu edad : "); int edad = obj.nextint
+        System.out.println("Dame tu edad : "); int edad = obj.nextInt();
+        if()
 
 
     }
