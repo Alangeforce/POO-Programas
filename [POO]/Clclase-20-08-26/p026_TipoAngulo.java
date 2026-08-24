@@ -11,6 +11,7 @@ public class p026_TipoAngulo {
         int ang = new Scanner(System.in).nextInt();
 
         if(ang >=0 && ang <=360){
+            // Si el angulo es correcto se procesa
             
         }
 
