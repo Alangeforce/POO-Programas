@@ -15,7 +15,8 @@ public class p029_Calculadora{
         System.out.print("Que operador: + - * / ^: "); op =obj.next().charAt(0);
 
         switch(op){
-            case ''
+            case '+';
+                so
         }
         
 
