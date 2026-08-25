@@ -15,9 +15,9 @@ public class p029_Calculadora{
         System.out.print("Que operador: + - * / ^: "); op =obj.next().charAt(0);
 
         switch (op){
-            case '+';
+            case '+':
                 System.out.printf("La suma de %f + %f = %f", n1, n2, n1 + n2); break;
-            default;
+            default:
                 break;
             
         }
