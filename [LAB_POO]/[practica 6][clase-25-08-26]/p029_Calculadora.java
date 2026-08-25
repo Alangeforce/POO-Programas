@@ -16,7 +16,7 @@ public class p029_Calculadora{
 
         switch(op){
             case '+';
-                System.out.printf("La suma de f");
+                System.out.printf("La suma de %f + %f");
         }
         
 
