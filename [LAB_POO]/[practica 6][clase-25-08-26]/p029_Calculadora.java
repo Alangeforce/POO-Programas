@@ -17,7 +17,7 @@ public class p029_Calculadora{
         switch (op){
             case '+':System.out.printf("La suma de %f + %f = %f", n1, n2, n1 + n2); break;
             case '-':System.out.printf("La resta de %f + %f = %f", n1, n2, n1 - n2); break;
-            case '*':System.out.printf("La multiplicacion de %f + %f = %f", n1, n2, n1 + n2); break;
+            case '*':System.out.printf("La multiplicacion de %f + %f = %f", n1, n2, n1 * n2); break;
             case '/':System.out.printf("La suma de %f + %f = %f", n1, n2, n1 + n2); break;
             case '/^':System.out.printf("La suma de %f + %f = %f", n1, n2, n1 + n2); break;
                 
