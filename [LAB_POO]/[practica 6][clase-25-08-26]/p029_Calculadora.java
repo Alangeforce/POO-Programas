@@ -6,6 +6,7 @@ public class p029_Calculadora{
         float n1=0, n2=0;
         char op;
         Scanner obj = new Scanner(System.in);
+        System.out.print("\u001b[H\u001b[2J");
 
         System.out.println("Calculadora Basica");
 
@@ -18,7 +19,7 @@ public class p029_Calculadora{
             case '-':System.out.printf("La resta de %f - %f = %f", n1, n2, n1 - n2); break;
             case '*':System.out.printf("La multiplicacion de %f * %f = %f", n1, n2, n1 * n2); break;
             case '/':System.out.printf("La divicion de %f + %f / %f", n1, n2, n1 / n2); break;
-            case '^':System.out.printf("La potencia de %f + %f ^ %f", n1, n2,Math.pow(n1, n2)); break;
+            case '^':System.out.printf("La potencia de %f + %f ^ %f", n1, n2,Math.pow(n1, )); break;
                 
             default:
                 break;
