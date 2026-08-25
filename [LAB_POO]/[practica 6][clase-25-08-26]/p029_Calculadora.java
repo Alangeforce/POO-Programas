@@ -18,7 +18,7 @@ public class p029_Calculadora{
             case '+';
                 System.out.printf("La suma de %f + %f = %f", n1, n2, n1 + n2); break;
             default;
-                System.out.print
+                sosu
         }
         
 
