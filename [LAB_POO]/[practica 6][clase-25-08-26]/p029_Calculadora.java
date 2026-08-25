@@ -6,7 +6,7 @@ public class p029_Calculadora{
         float n1=0, n2=0;
         char op;
         Scanner obj = new Scanner(System.in);
-        System.out.print("\u001b[H\u001b[2J");
+        System.out.print("\033[H\033[2J");
 
         System.out.println("Calculadora Basica");
 
