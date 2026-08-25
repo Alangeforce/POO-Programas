@@ -12,7 +12,7 @@ public class p029_Calculadora{
 
         System.out.print("Dame el primer numero: "); n1 =obj.nextInt();
         System.out.print("Dame el segundo numero: "); n2 =obj.nextInt();
-        System.out.print("Que operador: + - * / ^: "); n2 =obj.nextInt();
+        System.out.print("Que operador: + - * / ^: "); op =obj.next().;
         
 
     }
