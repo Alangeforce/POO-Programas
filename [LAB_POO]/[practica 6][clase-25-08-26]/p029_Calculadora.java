@@ -9,7 +9,7 @@ public class p029_Calculadora{
 
         System.out.println("Calculadora Basica");
 
-        System.out.print("Dame el primer numero: "); n1 =
+        System.out.print("Dame el primer numero: "); n1 =obj.next
         
 
     }
