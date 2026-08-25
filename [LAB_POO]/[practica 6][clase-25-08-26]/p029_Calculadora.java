@@ -19,7 +19,7 @@ public class p029_Calculadora{
             case '-':System.out.printf("La resta de %f - %f = %f", n1, n2, n1 - n2); break;
             case '*':System.out.printf("La multiplicacion de %f * %f = %f", n1, n2, n1 * n2); break;
             case '/':System.out.printf("La divicion de %f + %f / %f", n1, n2, n1 / n2); break;
-            case '^':System.out.printf("La potencia de %f + %f  %f", n1, n2, n1 + n2); break;
+            case '^':System.out.printf("La potencia de %f + %f ^ %f", n1, n2, n1  n2); break;
                 
             default:
                 break;
