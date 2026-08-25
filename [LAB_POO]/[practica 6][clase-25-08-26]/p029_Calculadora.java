@@ -14,6 +14,7 @@ public class p029_Calculadora{
         System.out.print("Dame el segundo numero: "); n2 =obj.nextInt();
         System.out.print("Que operador: + - * / ^: "); op =obj.next().charAt(0);
 
+        switch(op);
         
         
 
