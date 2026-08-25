@@ -16,7 +16,7 @@ public class p029_Calculadora{
 
         switch(op){
             case '+';
-                so
+                System.out.printf();
         }
         
 
