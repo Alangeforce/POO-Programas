@@ -22,4 +22,10 @@ Repositorio privado para los programas realizados en la clase de **Programación
 
 ## Actividad 1
 
-## Actividad 
+## Actividad 7
+_p039_Numeros1a100
+p040_Numeros100a1
+p041_ProcesaCalificaciones
+p042_TablaMultiplicar
+p043_ConteoNumeros
+_
