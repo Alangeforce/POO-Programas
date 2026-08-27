@@ -10,7 +10,7 @@ public class p039_Numeros1a100 {
         num = 1;
 
         while( num <=100 ){
-``      
+``          System.out.println();
 
         }
 
