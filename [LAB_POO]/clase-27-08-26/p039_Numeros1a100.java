@@ -6,7 +6,8 @@ public class p039_Numeros1a100 {
         
         System.out.print("\033[H\033[2J"); System.out.flush();
         int num;
-        
+
+        c =
 
         while( c <=100 ){
 
