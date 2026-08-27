@@ -8,7 +8,7 @@ public class p040_Numeros100a1 {
 
         while( num <=100 ){
             System.out.print(num + "");
-            num++;            
+            num--;            
         }
         System.out.println("\nProceso terminado...");
     }
