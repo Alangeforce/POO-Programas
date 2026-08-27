@@ -13,6 +13,6 @@ public class p039_Numeros1a100 {
 ``          System.out.print(num + "");
             num++;            
         }
-        System.out.println("\nProceso terminado");
+        System.out.println("\nProceso terminado...");
     }
 }
