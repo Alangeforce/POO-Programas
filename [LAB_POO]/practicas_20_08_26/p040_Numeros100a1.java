@@ -1,4 +1,5 @@
 public class p040_Numeros100a1 {
-    
-    psv
+    public static void main(String[] args) {
+        
+    }
 }
