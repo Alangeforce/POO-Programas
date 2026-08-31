@@ -24,7 +24,7 @@ public class p044_ParesAscendente {
         }
         System.out.printf("\nLa suma es %d",suma);
        
-        System.out.printf("\n\nDeseas COntinuar (S/N)");
+    
 
         System.out.print("\nDeseas continuar (S/N) ? "); r = Character.toUpperCase(obj.next().charAt(0));
 
