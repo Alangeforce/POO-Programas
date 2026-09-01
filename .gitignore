@@ -15,6 +15,7 @@ hs_err_pid*
 .classpath
 .project
 bin/
+out/
 
 # OS
 .DS_Store
