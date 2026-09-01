@@ -11,7 +11,7 @@ public class p052_Numeros1aN {
 
         System.out.print("Hasta Donde? :"); int n = obj.nextInt();
         System.out.print("Incrementos ? :"); int m = obj.nextInt();
-        for(int x=0; x <= 20 ; x += m) {
+        for(int x=0; x <= x ; x += m) {
             System.out.println(x);
 
         }
