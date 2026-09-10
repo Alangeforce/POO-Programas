@@ -25,7 +25,7 @@ public class p072_SumaParesImpares {
         int ini = scanner.nextInt();
         System.out.print("Valor final ? ");
         int fin = scanner.nextInt();
-        System.out.print("%n[P]ares %n[I]mpares ? ");
+        System.out.printf("%n[P]ares %n[I]mpares ? ");
         char poi = Character.toUpperCase(scanner.next().charAt(0));
 
         if (poi != 'P' && poi != 'I') {
