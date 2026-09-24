@@ -4,7 +4,7 @@ public class Empleado {
     private String Nombre;
     private int Edad;
     private char Sexo;
-    private boolean Cadado;
+    private boolean Casado;
     
 
     // constructor aqui de la clas, que rellena los valores de las propiedades
@@ -43,16 +43,16 @@ public class Empleado {
         Sexo = sexo;
     }
 
-    public boolean isCadado() {
-        return Cadado;
+    public boolean isCasado() {
+        return Casado;
     }
 
-    public void setCadado(boolean cadado) {
-        Cadado = cadado;
+    public void setCasado(boolean casado) {
+        Casado = casado;
     }
 
     @Override
     public String toString() {
-        return String.format("Nombre: %s, Edad: %d, Sexo: %c, Casado: %b", Nombre, Edad, Sexo, Cadado);
+        return String.format("Nombre: %s, Edad: %d, Sexo: %c, Casado: %b", Nombre, Edad, Sexo, Casado);
     }
 }
