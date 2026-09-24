@@ -53,6 +53,6 @@ public class Empleado {
 
     @Override
     public String toString() {
-        return String.format("Nombre: %s, Edad: %d", Nombre, Edad);
+        return String.format("Nombre: %s, Edad: %d, Sexo: %c, Casado: %b", Nombre, Edad, Sexo, Cadado);
     }
 }
