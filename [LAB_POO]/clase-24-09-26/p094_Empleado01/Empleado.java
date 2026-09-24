@@ -4,7 +4,8 @@ public class Empleado {
     private String Nombre;
     private int Edad;
     private char Sexo;
-    private boolean Csa
+    private boolean Cadado;
+    
 
     // constructor aqui de la clas, que rellena los valores de las propiedades
 
