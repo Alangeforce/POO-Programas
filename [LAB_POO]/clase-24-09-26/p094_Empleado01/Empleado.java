@@ -3,7 +3,7 @@ package p094_Empleado01;
 public class Empleado {
     private String Nombre;
     private int Edad;
-    private
+    private char se
 
     // constructor aqui de la clas, que rellena los valores de las propiedades
 
