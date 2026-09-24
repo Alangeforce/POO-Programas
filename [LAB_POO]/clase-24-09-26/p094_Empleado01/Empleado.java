@@ -53,6 +53,16 @@ public class Empleado {
 
     @Override
     public String toString() {
-        return String.format("Nombre: %s, Edad: %d, Sexo: %c, Casado: %b", Nombre, Edad, Sexo, Casado);
+        String sexoTexto;
+        if (Sexo == 'H' || Sexo == 'h') {
+            sexoTexto = "Hombre";
+        } else if (Sexo == 'M' || Sexo == 'm') {
+            sexoTexto = "Mujer";
+        } else {
+            sexoTexto = "No especificado";
+        }
+
+        String estadoCivil = Casado ? "Casado" : "Soltero";
+        return String.format("Nombre: %s, Edad: %d, Sexo: %s, Estado civil: %s", Nombre, Edad, sexoTexto, estadoCivil);
     }
 }
