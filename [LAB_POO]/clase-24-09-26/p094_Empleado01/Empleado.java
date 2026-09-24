@@ -35,6 +35,22 @@ public class Empleado {
         Nombre = nombre;
     }
 
+    public char getSexo() {
+        return Sexo;
+    }
+
+    public void setSexo(char sexo) {
+        Sexo = sexo;
+    }
+
+    public boolean isCadado() {
+        return Cadado;
+    }
+
+    public void setCadado(boolean cadado) {
+        Cadado = cadado;
+    }
+
     @Override
     public String toString() {
         return String.format("Nombre: %s, Edad: %d", Nombre, Edad);
