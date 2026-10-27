@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
-  <title id="title">Logotipo Nexo Norte</title>
-  <desc id="desc">Tres puntos conectados formando una N</desc>
-  <rect width="120" height="120" rx="28" fill="#102a43"/>
-  <path d="M31 86V34l58 52V34" fill="none" stroke="#f4c95d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="31" cy="34" r="8" fill="#ef8354"/>
-  <circle cx="89" cy="34" r="8" fill="#ef8354"/>
-</svg>
